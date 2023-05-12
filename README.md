@@ -1,3 +1,21 @@
+Welcome to my GitHub account!
+
+Hello, my name is KhadorCrommanda and I am new to programming. I am currently learning Python and C#, and I am excited to share my projects and learn from other developers here on GitHub.
+
+About me:
+In addition to programming, my other hobby is playing chess. I am a big fan of the game and am always looking to improve my skills.
+I also have a Discord account, KhadorCrommanda#7858, so if you want to play a game of chess or just chat about programming, feel free to contact me there.
+
+My projects:
+I am currently working on some simple projects to enhance my skills in Python and C#. These projects include programming exercises and small programs that solve common problems.
+I hope to share more projects soon!
+
+Contact:
+If you want to get in touch with me, you can find me on Discord or send me a message here on GitHub.
+I am always open to new connections and project ideas. Thank you for visiting my page and I hope to talk to you soon!
+
+#################################################################################################################################
+
 Bem-vindo à minha conta no GitHub!
 Olá, meu nome é KhadorCrommanda e sou novo na programação. Atualmente estou aprendendo Python e C#, e estou animado para compartilhar meus projetos e aprender com outros desenvolvedores aqui no GitHub.
 
